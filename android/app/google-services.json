@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742175489363",
+    "project_id": "fleet-management-bdecd",
+    "storage_bucket": "fleet-management-bdecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742175489363:android:734efa1542286f4757f5a6",
+        "android_client_info": {
+          "package_name": "com.example.fleet_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742175489363-uhqutfvtmthokdp7pu0hur9v8pugo58c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnjcxZUuhYpJxOyO0a_sKQw-nfUOchU_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742175489363-uhqutfvtmthokdp7pu0hur9v8pugo58c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
