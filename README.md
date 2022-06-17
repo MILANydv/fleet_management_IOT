@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is the simple application for the IOT pjoject. Different data that sensors read are send to the realtime database in firebase and the application fetches the data and updates the value in the card.
 
-A few resources to get you started if this is your first Flutter project:
+# Screeenshot
+![Screenshot_1655273557](https://user-images.githubusercontent.com/67412924/174278767-076ea650-c378-42bd-9fa4-8d49e58b2b75.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1655273529](https://user-images.githubusercontent.com/67412924/174278616-ce11859c-2255-4136-88e8-34cdae8f9dc9.png)
+
